@@ -21,30 +21,31 @@
   color: #7e7e7e;
 
 }
-.lower-div a{
+
+.lower-div a {
   color: #7e7e7e;
 }
 
 
 
 .ul-up-line {
- margin-left: -10px;
- margin-bottom: -16px;
+  margin-left: -10px;
+  margin-bottom: -16px;
 }
 
 .ul-up-line li {
   padding-left: 10px;
 }
 
-.ul-up-line button{
+.ul-up-line button {
   font-family: inherit;
   font-size: 15px;
   background-color: #f7f7f7;
   border: 1px solid lightgray;
   padding: 0 10px;
-  
-  &:hover{
-     background-color:  rgba(211, 211, 211, 0.37);
+
+  &:hover {
+    background-color: rgba(211, 211, 211, 0.37);
   }
 }
 
@@ -70,4 +71,3 @@
 .lower-div p {
   margin-top: 15px;
 }
-
