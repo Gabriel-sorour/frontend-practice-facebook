@@ -1,0 +1,22 @@
+body {
+  font-family: Roboto;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+button{
+  cursor: pointer;
+  transition: all .15s ease;
+}
