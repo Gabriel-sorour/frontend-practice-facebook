@@ -71,3 +71,17 @@
 .lower-div p {
   margin-top: 15px;
 }
+
+
+@media (max-width: 620px){
+
+.lower-div p,
+.lower-div ul {
+
+  font-size: 9px;
+}
+
+.lower-div p{
+  margin-top: 0px;
+}
+}
